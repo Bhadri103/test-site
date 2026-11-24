@@ -1,1 +1,0 @@
-import{A as i,F as e}from"./index-z1bC9ffV.js";const a=i().shape({financier_name:e().required("Financier name is required"),agent_code:e().required("Agent code is required"),executive_name:e().required("Executive name is required"),executive_phone:e().required("Executive phone is required"),company_email:e().required("Company email is required")});export{a as A};
